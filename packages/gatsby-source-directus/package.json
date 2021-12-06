@@ -11,7 +11,7 @@
 	],
 	"dependencies": {
 		"@directus/sdk": "9.2.0",
-		"chalk": "4.1.2",
+		"chalk": "5.0.0",
 		"gatsby-source-filesystem": "4.2.0",
 		"gatsby-source-graphql": "4.2.0",
 		"invariant": "2.2.4",
